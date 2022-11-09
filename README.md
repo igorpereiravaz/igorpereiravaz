@@ -13,18 +13,24 @@ Experience working with language PHP and frameworks Laravel and Symfony. <br>
 Experience working with Javascript (Jquery, VueJS, and currently studying about NodeJS).<br>
 Experience working with HTML, CSS, Bootstrap, AdminLTE and Wordpress.<br>
 Experience using GIT (GitHub, GitLab and BitBucket) and Experience with API's development.<br>
+Experience working with Docker, Composer and NPM.<br><br>
     
 • Architeture:<br>
-Knowledge in SOLID, Objects Callisthenics, Object-oriented programming, Design Patterns,Clean Architeture, Clean Code and Domain-Driven Design.<br> 
-• Big Data / ETL / Analytics / Engineer:<br>
-Knowledge in Business Intelligence, DAX, ETL and reports using Power BI. Knowledge in analysis and reporting using Python. Knowledge in currents Big Data Tools: Hadoop, Sqoop, Spark, Hive, HBase. Knowledge in Data Engineer tools: Elastic Search and Spark Data Processing.
+Knowledge in SOLID, Objects Callisthenics, Object-oriented programming, Design Patterns,Clean Architeture, Clean Code and Domain-Driven Design.<br>
+Currently studying Test-driven development and Behavior Driven Development.<br><br>
+
 • Databases:<br>
-Experience with Implementation of Stored Procedures, Triggers, modelagens, views and Querys nos SGBDs MySQL e Postgres. Knowledge in MongoDB(Express, Atlas eand
-Compass) and Redis. <br>
+Experience with Implementation of Stored Procedures, Triggers, modelagens, views and Querys in SGBDs MySQL and Postgres.<br>
+Knowledge in MongoDB(Express, Atlas e and Compass) and Redis. <br><br>
+    
+• Big Data / ETL / Analytics / Engineer:<br>
+Knowledge in Business Intelligence, DAX, ETL and reports using Power BI. Knowledge in analysis and reporting using Python. Knowledge in currents Big Data Tools: Hadoop, Sqoop, Spark, Hive, HBase. Knowledge in Data Engineer tools: Elastic Search and Spark Data Processing.<br><br>
+    
 • Agile Methodologies:<br>
-Experience with Scrum e Kanban(Jira).<br>
-• Cognitive:<br>
-Modeling and documentation using UML.<br></h4>
+Experience with Scrum e Kanban(Jira).<br><br>
+
+• Other knowledges:<br>
+Modeling and documentation using UML.<br><br>
 
 <ul>
 <li>
