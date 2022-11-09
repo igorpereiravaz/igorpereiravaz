@@ -7,11 +7,17 @@
 </ul>
 <h4 align="left "><a id="user-content-bachelor-of-information-systems-with-5-years-of-experience-in-digital-manufacturing-technologies-and-fab-labs-by-the-public-network-of-laboratories-fab-lab-livre-sp-i-am-passionate-about-learning-and-using-technology-always-looking-for-new-knowledge-and-challenges-currently-i-venture-with-arduino-raspberry-robotics-data-and-ai" class="anchor" aria-hidden="true" href="#bachelor-of-information-systems-with-5-years-of-experience-in-digital-manufacturing-technologies-and-fab-labs-by-the-public-network-of-laboratories-fab-lab-livre-sp-i-am-passionate-about-learning-and-using-technology-always-looking-for-new-knowledge-and-challenges-currently-i-venture-with-arduino-raspberry-robotics-data-and-ai"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Technologist in systems analysis and development at the Federal Institute of São Paulo.</h4>
 <h5>
-Skills:<br>
+Skills:<br><br>
+• Development:<br>
+Experience working with language PHP and frameworks Laravel and Symfony. <br>
+Experience working with Javascript (Jquery, VueJS, and currently studying about NodeJS).<br>
+Experience working with HTML, CSS, Bootstrap, AdminLTE and Wordpress.<br>
+Experience using GIT (GitHub, GitLab and BitBucket) and Experience with API's development.<br>
+    
+• Architeture:<br>
+Knowledge in SOLID, Objects Callisthenics, Object-oriented programming, Design Patterns,Clean Architeture, Clean Code and Domain-Driven Design.<br> 
 • Big Data / ETL / Analytics / Engineer:<br>
 Knowledge in Business Intelligence, DAX, ETL and reports using Power BI. Knowledge in analysis and reporting using Python. Knowledge in currents Big Data Tools: Hadoop, Sqoop, Spark, Hive, HBase. Knowledge in Data Engineer tools: Elastic Search and Spark Data Processing.
-• Web Development:<br>
-Experience using Laravel and Symfony, GIT, HTML5, CSS3, Bootstrap and Javascript. Experience with API's development.<br>
 • Databases:<br>
 Experience with Implementation of Stored Procedures, Triggers, modelagens, views and Querys nos SGBDs MySQL e Postgres. Knowledge in MongoDB(Express, Atlas eand
 Compass) and Redis. <br>
@@ -22,11 +28,10 @@ Modeling and documentation using UML.<br></h4>
 
 <ul>
 <li>
-<h3><a id="user-content-i-am-currently-working-on" class="anchor" aria-hidden="true" href="#i-am-currently-working-on"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><strong>I am currently working as Software Engineer Backend:</strong></h3>
+<h3><a id="user-content-i-am-currently-working-on" class="anchor" aria-hidden="true" href="#i-am-currently-working-on"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><strong>I am currently working as Software Engineer Backend.</strong></h3>
 </li>
 </ul>
 <ul>
-<li><a href="https://laravel.com/">PHP | Laravel</a> and <a href="https://badgr.com/public/assertions/W1auKYVSSgWYHIW32ZQbCg">Data Engineer Beginner</a></li>
 </ul>
 <ul>
 <li>
