@@ -10,7 +10,7 @@
 Skills:<br><br>
 • Development:<br>
 Experience working with language PHP and frameworks Laravel and Symfony. <br>
-Experience working with Javascript (Jquery, VueJS, and currently studying about NodeJS).<br>
+Experience working with Javascript (Jquery, VueJS, and currently NodeJS).<br>
 Experience working with HTML, CSS, Bootstrap, AdminLTE and Wordpress.<br>
 Experience using GIT (GitHub, GitLab and BitBucket) and Experience with API's development.<br>
 Experience working with Docker, Composer and NPM.<br><br>
@@ -20,7 +20,7 @@ Knowledge in SOLID, Objects Callisthenics, Object-oriented programming, Design P
 Currently studying Test-driven development and Behavior Driven Development.<br><br>
 
 • Databases:<br>
-Experience with Implementation of Stored Procedures, Triggers, modelagens, views and Querys in SGBDs MySQL and Postgres.<br>
+Experience with Implementation of Stored Procedures, Triggers, modeling, views and Querys in SGBDs MySQL and Postgres.<br>
 Knowledge in MongoDB(Express, Atlas e and Compass) and Redis. <br><br>
     
 • Big Data / ETL / Analytics / Engineer:<br>
