@@ -10,7 +10,7 @@
 Skills:<br><br>
 • Development:<br>
 Experience working with language PHP and frameworks Laravel and Symfony. <br>
-Experience working with Javascript (Jquery, VueJS, and currently NodeJS).<br>
+Experience working with Javascript (Jquery, VueJS, NodeJS, Typescript, NestJs, ExpressJS, JestJS).<br>
 Experience working with HTML, CSS, Bootstrap, AdminLTE and Wordpress.<br>
 Experience using GIT (GitHub, GitLab and BitBucket) and Experience with API's development.<br>
 Experience working with Docker, Composer and NPM.<br><br>
