@@ -1,17 +1,60 @@
-# 👋 Olá, eu sou o Igor Pereira Vaz  
+# 👋 Hi, I'm Igor Pereira Vaz  
 
-Sou **Engenheiro de Software Backend** com quase 5 anos de experiência em desenvolvimento de sistemas. Tenho paixão por resolver problemas complexos de forma simples, sempre buscando escrever código limpo, escalável e de fácil manutenção.  
+💻 **Software Engineer | Backend Developer**  
+With 5 years of experience building robust, scalable, and maintainable systems, I specialize in designing APIs, integrating services, and ensuring performance and reliability in production environments.  
 
-No dia a dia, gosto de trabalhar em equipe e compartilhar conhecimento, pois acredito que a colaboração é essencial para alcançar resultados de alto impacto. Estou sempre aprendendo novas práticas, padrões e ferramentas que me ajudem a evoluir como profissional.  
+---
 
-💻 **Áreas de atuação e interesses**  
-- Desenvolvimento backend (APIs, microsserviços e integrações)  
-- Boas práticas de engenharia de software (clean code, SOLID, testes)  
-- Performance, escalabilidade e segurança em sistemas distribuídos  
-- Integração entre equipes e colaboração em projetos de impacto  
+## 🚀 About Me  
+- Passionate about **clean code**, **scalability**, and **software architecture**  
+- Experienced in **backend development** with modern technologies and frameworks  
+- Strong background in **system integration** and **payment solutions**  
+- Always learning and improving skills in **high-performance systems** and **software best practices**  
 
-👨‍👩‍👦 **Um pouco mais sobre mim**  
-Além da carreira, sou casado e pai de dois meninos. A família é um dos meus maiores valores e busco sempre equilibrar a vida profissional e pessoal, aproveitando ao máximo os momentos com eles.  
+---
 
-📫 **Vamos nos conectar!**  
-Sinta-se à vontade para trocar ideias, compartilhar experiências ou falar sobre tecnologia e inovação.  
+## 🛠️ Tech Stack  
+
+### Languages & Frameworks  
+- Golang  
+- Node.js | TypeScript | JavaScript  
+- PHP  
+
+### Databases  
+- PostgreSQL  
+- MySQL  
+- MongoDB  
+- Redis  
+
+### Tools & Practices  
+- Git | GitHub | GitLab | Bitbucket  
+- Docker  
+- RESTful APIs | Messaging Systems (Kafka)  
+- Clean Architecture | Design Patterns | SOLID Principles  
+
+---
+
+## 📈 Professional Experience  
+
+- **Software Engineer | Grupo SBF (Nike Brazil & Centauro)** – *Remote, 2023 – Present*  
+  Developed and maintained backend services in Golang and TypeScript, integrated with payment solutions, and designed APIs for high-performance applications.  
+
+- **Software Engineer | Pravaler** – *Remote, 2022 – 2023*  
+  Built web backends using PHP (Laravel) and JavaScript, automated financial processes, and improved performance and scalability.  
+
+- **Systems Analyst | Phonetrack** – *Remote, 2021 – 2022*  
+  Backend development using Symfony (PHP) and Node.js, implemented features, and optimized system performance.  
+
+- **Intern | Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP)** – *2019 – 2020*  
+  Provided IT support, documentation, and managed computer labs.  
+
+---
+
+## 🌍 Let's Connect  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/igor-pereira-vaz)  
+- 📧 Email: igorpereiravaz@gmail.com  
+- 🌐 [GitHub](https://github.com/igor-pereiravaz)  
+
+---
+✨ _"Code is more than logic — it’s how we bring ideas to life."_ ✨
